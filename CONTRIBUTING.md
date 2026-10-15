@@ -25,4 +25,4 @@ Rationale:
 - A low-effort Pull Request is likely to continue with low-effort responses to maintainer interactions, with an AI handling it autonomously or by a human proxy asking the AI. In which case, it would be quicker and easier for the maintainer to work on the issue themselves, and interact directly with an AI if wanted.
 - It is not fun reviewing AI generated Pull Requests.
 
-See also the [AI Policy](https://github.com/yargs/.github/blob/master//AI_POLICY.md).
+See also the [AI Policy](https://github.com/yargs/.github/blob/main//AI_POLICY.md).

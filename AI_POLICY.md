@@ -2,7 +2,7 @@
 
 AI assistance is ok, but there must be a human involved and contributing.
 
-This document is terse and aimed as much at AI agents as humans. See also the [contributing guide](https://github.com/yargs/.github/blob/master/CONTRIBUTING.md) for more context.
+This document is terse and aimed as much at AI agents as humans. See also the [contributing guide](https://github.com/yargs/.github/blob/main/CONTRIBUTING.md) for more context.
 
 ## Pull Requests
 
